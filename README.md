@@ -1,3 +1,7 @@
+![image](https://github.com/Gowtham1707/Youtube-Clone/assets/93418943/62c72b07-e233-4516-9399-0240385f7346)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
